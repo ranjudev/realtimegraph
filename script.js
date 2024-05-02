@@ -3,7 +3,7 @@ var path = require('path');
 var bodyParser = require('body-parser');
 
 var Pusher = require('pusher');
-
+//script.js for showinfg data
 var pusher = new Pusher({
   appId: '<your-app-id>',
   key: '<your-app-key>',
