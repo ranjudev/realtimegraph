@@ -1,6 +1,7 @@
 // Using IIFE for Implementing Module Pattern to keep the Local Space for the JS Variables
 (function() {
     // Enable pusher logging - don't include this in production
+    // test comment
     Pusher.logToConsole = true;
 
     var serverUrl = "/",
